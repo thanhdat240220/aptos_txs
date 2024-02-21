@@ -1,0 +1,16 @@
+{
+  "name": "aptos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.7.0",
+    "@aptos-labs/wallet-adapter-react": "^2.1.8",
+    "ts-node": "^10.9.2"
+  }
+}
