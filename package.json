@@ -13,5 +13,9 @@
     "@aptos-labs/wallet-adapter-react": "^2.1.8",
     "tea-jeffjack": "^1.0.0",
     "ts-node": "^10.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thanhdat240220/aptos_txs.git"
   }
 }
